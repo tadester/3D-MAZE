@@ -33,3 +33,16 @@ Press 'q' to change the wall rendering style.
 Press 'w' to toggle wall collision.
 Launch a blue cube using the space bar.
 Explore and enjoy the 3D maze!
+
+
+#Installation and Prerequisites for 3D Maze:
+To run the 3D Maze, you'll need to have the following prerequisites installed:
+
+OpenGL Library: Ensure you have the OpenGL library installed on your system.
+
+Linux: You can typically install it using your package manager, such as apt or yum.
+Windows: You might need to download and install a development version of OpenGL.
+GLUT Library: GLUT (OpenGL Utility Toolkit) is also required.
+
+Linux: You can usually install it using your package manager.
+Windows: You might need to download GLUT binaries.
